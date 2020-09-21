@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30225.117
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reward_448A", "Reward_448A\Reward_448A.csproj", "{47332E08-E10D-4329-A9E6-A8BAEC9A9E9A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistictDigits_1228A", "DistictDigits_1228A\DistictDigits_1228A.csproj", "{FB2C3622-5F28-4DDE-80D3-C0E4DF9F1E71}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{47332E08-E10D-4329-A9E6-A8BAEC9A9E9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47332E08-E10D-4329-A9E6-A8BAEC9A9E9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47332E08-E10D-4329-A9E6-A8BAEC9A9E9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB2C3622-5F28-4DDE-80D3-C0E4DF9F1E71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB2C3622-5F28-4DDE-80D3-C0E4DF9F1E71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB2C3622-5F28-4DDE-80D3-C0E4DF9F1E71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB2C3622-5F28-4DDE-80D3-C0E4DF9F1E71}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
