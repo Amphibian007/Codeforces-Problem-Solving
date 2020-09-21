@@ -1,0 +1,13 @@
+F:\Codeforces-Problem-Solving\Week1\DistictDigits_1228A\bin\Debug\netcoreapp3.1\DistictDigits_1228A.exe
+F:\Codeforces-Problem-Solving\Week1\DistictDigits_1228A\bin\Debug\netcoreapp3.1\DistictDigits_1228A.deps.json
+F:\Codeforces-Problem-Solving\Week1\DistictDigits_1228A\bin\Debug\netcoreapp3.1\DistictDigits_1228A.runtimeconfig.json
+F:\Codeforces-Problem-Solving\Week1\DistictDigits_1228A\bin\Debug\netcoreapp3.1\DistictDigits_1228A.runtimeconfig.dev.json
+F:\Codeforces-Problem-Solving\Week1\DistictDigits_1228A\bin\Debug\netcoreapp3.1\DistictDigits_1228A.dll
+F:\Codeforces-Problem-Solving\Week1\DistictDigits_1228A\bin\Debug\netcoreapp3.1\DistictDigits_1228A.pdb
+F:\Codeforces-Problem-Solving\Week1\DistictDigits_1228A\obj\Debug\netcoreapp3.1\DistictDigits_1228A.csprojAssemblyReference.cache
+F:\Codeforces-Problem-Solving\Week1\DistictDigits_1228A\obj\Debug\netcoreapp3.1\DistictDigits_1228A.AssemblyInfoInputs.cache
+F:\Codeforces-Problem-Solving\Week1\DistictDigits_1228A\obj\Debug\netcoreapp3.1\DistictDigits_1228A.AssemblyInfo.cs
+F:\Codeforces-Problem-Solving\Week1\DistictDigits_1228A\obj\Debug\netcoreapp3.1\DistictDigits_1228A.csproj.CoreCompileInputs.cache
+F:\Codeforces-Problem-Solving\Week1\DistictDigits_1228A\obj\Debug\netcoreapp3.1\DistictDigits_1228A.dll
+F:\Codeforces-Problem-Solving\Week1\DistictDigits_1228A\obj\Debug\netcoreapp3.1\DistictDigits_1228A.pdb
+F:\Codeforces-Problem-Solving\Week1\DistictDigits_1228A\obj\Debug\netcoreapp3.1\DistictDigits_1228A.genruntimeconfig.cache
