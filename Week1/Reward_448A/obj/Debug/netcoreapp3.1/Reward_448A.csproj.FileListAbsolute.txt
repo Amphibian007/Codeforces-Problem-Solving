@@ -1,0 +1,13 @@
+F:\Codeforces-Problem-Solving\Week1\Reward_448A\bin\Debug\netcoreapp3.1\Reward_448A.exe
+F:\Codeforces-Problem-Solving\Week1\Reward_448A\bin\Debug\netcoreapp3.1\Reward_448A.deps.json
+F:\Codeforces-Problem-Solving\Week1\Reward_448A\bin\Debug\netcoreapp3.1\Reward_448A.runtimeconfig.json
+F:\Codeforces-Problem-Solving\Week1\Reward_448A\bin\Debug\netcoreapp3.1\Reward_448A.runtimeconfig.dev.json
+F:\Codeforces-Problem-Solving\Week1\Reward_448A\bin\Debug\netcoreapp3.1\Reward_448A.dll
+F:\Codeforces-Problem-Solving\Week1\Reward_448A\bin\Debug\netcoreapp3.1\Reward_448A.pdb
+F:\Codeforces-Problem-Solving\Week1\Reward_448A\obj\Debug\netcoreapp3.1\Reward_448A.csprojAssemblyReference.cache
+F:\Codeforces-Problem-Solving\Week1\Reward_448A\obj\Debug\netcoreapp3.1\Reward_448A.AssemblyInfoInputs.cache
+F:\Codeforces-Problem-Solving\Week1\Reward_448A\obj\Debug\netcoreapp3.1\Reward_448A.AssemblyInfo.cs
+F:\Codeforces-Problem-Solving\Week1\Reward_448A\obj\Debug\netcoreapp3.1\Reward_448A.csproj.CoreCompileInputs.cache
+F:\Codeforces-Problem-Solving\Week1\Reward_448A\obj\Debug\netcoreapp3.1\Reward_448A.dll
+F:\Codeforces-Problem-Solving\Week1\Reward_448A\obj\Debug\netcoreapp3.1\Reward_448A.pdb
+F:\Codeforces-Problem-Solving\Week1\Reward_448A\obj\Debug\netcoreapp3.1\Reward_448A.genruntimeconfig.cache
