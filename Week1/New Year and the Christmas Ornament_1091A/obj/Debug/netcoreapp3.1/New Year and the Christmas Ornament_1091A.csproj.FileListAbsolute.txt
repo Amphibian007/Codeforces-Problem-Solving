@@ -1,0 +1,12 @@
+F:\Codeforces-Problem-Solving\Week1\New Year and the Christmas Ornament_1091A\bin\Debug\netcoreapp3.1\New Year and the Christmas Ornament_1091A.exe
+F:\Codeforces-Problem-Solving\Week1\New Year and the Christmas Ornament_1091A\bin\Debug\netcoreapp3.1\New Year and the Christmas Ornament_1091A.deps.json
+F:\Codeforces-Problem-Solving\Week1\New Year and the Christmas Ornament_1091A\bin\Debug\netcoreapp3.1\New Year and the Christmas Ornament_1091A.runtimeconfig.json
+F:\Codeforces-Problem-Solving\Week1\New Year and the Christmas Ornament_1091A\bin\Debug\netcoreapp3.1\New Year and the Christmas Ornament_1091A.runtimeconfig.dev.json
+F:\Codeforces-Problem-Solving\Week1\New Year and the Christmas Ornament_1091A\bin\Debug\netcoreapp3.1\New Year and the Christmas Ornament_1091A.dll
+F:\Codeforces-Problem-Solving\Week1\New Year and the Christmas Ornament_1091A\bin\Debug\netcoreapp3.1\New Year and the Christmas Ornament_1091A.pdb
+F:\Codeforces-Problem-Solving\Week1\New Year and the Christmas Ornament_1091A\obj\Debug\netcoreapp3.1\New Year and the Christmas Ornament_1091A.AssemblyInfoInputs.cache
+F:\Codeforces-Problem-Solving\Week1\New Year and the Christmas Ornament_1091A\obj\Debug\netcoreapp3.1\New Year and the Christmas Ornament_1091A.AssemblyInfo.cs
+F:\Codeforces-Problem-Solving\Week1\New Year and the Christmas Ornament_1091A\obj\Debug\netcoreapp3.1\New Year and the Christmas Ornament_1091A.csproj.CoreCompileInputs.cache
+F:\Codeforces-Problem-Solving\Week1\New Year and the Christmas Ornament_1091A\obj\Debug\netcoreapp3.1\New Year and the Christmas Ornament_1091A.dll
+F:\Codeforces-Problem-Solving\Week1\New Year and the Christmas Ornament_1091A\obj\Debug\netcoreapp3.1\New Year and the Christmas Ornament_1091A.pdb
+F:\Codeforces-Problem-Solving\Week1\New Year and the Christmas Ornament_1091A\obj\Debug\netcoreapp3.1\New Year and the Christmas Ornament_1091A.genruntimeconfig.cache

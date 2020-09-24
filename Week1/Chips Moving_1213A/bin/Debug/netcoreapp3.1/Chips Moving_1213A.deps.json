@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Chips Moving_1213A/1.0.0": {
+        "runtime": {
+          "Chips Moving_1213A.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Chips Moving_1213A/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

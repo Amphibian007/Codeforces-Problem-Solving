@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>New_Year_and_the_Christmas_Ornament_1091A</RootNamespace>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,13 @@
+F:\Codeforces-Problem-Solving\Week1\Hotilier_1200A\bin\Debug\netcoreapp3.1\Hotilier_1200A.exe
+F:\Codeforces-Problem-Solving\Week1\Hotilier_1200A\bin\Debug\netcoreapp3.1\Hotilier_1200A.deps.json
+F:\Codeforces-Problem-Solving\Week1\Hotilier_1200A\bin\Debug\netcoreapp3.1\Hotilier_1200A.runtimeconfig.json
+F:\Codeforces-Problem-Solving\Week1\Hotilier_1200A\bin\Debug\netcoreapp3.1\Hotilier_1200A.runtimeconfig.dev.json
+F:\Codeforces-Problem-Solving\Week1\Hotilier_1200A\bin\Debug\netcoreapp3.1\Hotilier_1200A.dll
+F:\Codeforces-Problem-Solving\Week1\Hotilier_1200A\bin\Debug\netcoreapp3.1\Hotilier_1200A.pdb
+F:\Codeforces-Problem-Solving\Week1\Hotilier_1200A\obj\Debug\netcoreapp3.1\Hotilier_1200A.csprojAssemblyReference.cache
+F:\Codeforces-Problem-Solving\Week1\Hotilier_1200A\obj\Debug\netcoreapp3.1\Hotilier_1200A.AssemblyInfoInputs.cache
+F:\Codeforces-Problem-Solving\Week1\Hotilier_1200A\obj\Debug\netcoreapp3.1\Hotilier_1200A.AssemblyInfo.cs
+F:\Codeforces-Problem-Solving\Week1\Hotilier_1200A\obj\Debug\netcoreapp3.1\Hotilier_1200A.csproj.CoreCompileInputs.cache
+F:\Codeforces-Problem-Solving\Week1\Hotilier_1200A\obj\Debug\netcoreapp3.1\Hotilier_1200A.dll
+F:\Codeforces-Problem-Solving\Week1\Hotilier_1200A\obj\Debug\netcoreapp3.1\Hotilier_1200A.pdb
+F:\Codeforces-Problem-Solving\Week1\Hotilier_1200A\obj\Debug\netcoreapp3.1\Hotilier_1200A.genruntimeconfig.cache

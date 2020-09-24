@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Hotilier_1200A/1.0.0": {
+        "runtime": {
+          "Hotilier_1200A.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hotilier_1200A/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

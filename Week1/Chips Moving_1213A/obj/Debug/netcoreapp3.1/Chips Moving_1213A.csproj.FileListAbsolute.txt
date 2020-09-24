@@ -1,0 +1,13 @@
+F:\Codeforces-Problem-Solving\Week1\Chips Moving_1213A\bin\Debug\netcoreapp3.1\Chips Moving_1213A.exe
+F:\Codeforces-Problem-Solving\Week1\Chips Moving_1213A\bin\Debug\netcoreapp3.1\Chips Moving_1213A.deps.json
+F:\Codeforces-Problem-Solving\Week1\Chips Moving_1213A\bin\Debug\netcoreapp3.1\Chips Moving_1213A.runtimeconfig.json
+F:\Codeforces-Problem-Solving\Week1\Chips Moving_1213A\bin\Debug\netcoreapp3.1\Chips Moving_1213A.runtimeconfig.dev.json
+F:\Codeforces-Problem-Solving\Week1\Chips Moving_1213A\bin\Debug\netcoreapp3.1\Chips Moving_1213A.dll
+F:\Codeforces-Problem-Solving\Week1\Chips Moving_1213A\bin\Debug\netcoreapp3.1\Chips Moving_1213A.pdb
+F:\Codeforces-Problem-Solving\Week1\Chips Moving_1213A\obj\Debug\netcoreapp3.1\Chips Moving_1213A.csprojAssemblyReference.cache
+F:\Codeforces-Problem-Solving\Week1\Chips Moving_1213A\obj\Debug\netcoreapp3.1\Chips Moving_1213A.AssemblyInfoInputs.cache
+F:\Codeforces-Problem-Solving\Week1\Chips Moving_1213A\obj\Debug\netcoreapp3.1\Chips Moving_1213A.AssemblyInfo.cs
+F:\Codeforces-Problem-Solving\Week1\Chips Moving_1213A\obj\Debug\netcoreapp3.1\Chips Moving_1213A.csproj.CoreCompileInputs.cache
+F:\Codeforces-Problem-Solving\Week1\Chips Moving_1213A\obj\Debug\netcoreapp3.1\Chips Moving_1213A.dll
+F:\Codeforces-Problem-Solving\Week1\Chips Moving_1213A\obj\Debug\netcoreapp3.1\Chips Moving_1213A.pdb
+F:\Codeforces-Problem-Solving\Week1\Chips Moving_1213A\obj\Debug\netcoreapp3.1\Chips Moving_1213A.genruntimeconfig.cache
