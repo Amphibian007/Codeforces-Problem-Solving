@@ -1,0 +1,13 @@
+F:\Codeforces-Problem-Solving\Week1\NonZero_1300A\bin\Debug\netcoreapp3.1\NonZero_1300A.exe
+F:\Codeforces-Problem-Solving\Week1\NonZero_1300A\bin\Debug\netcoreapp3.1\NonZero_1300A.deps.json
+F:\Codeforces-Problem-Solving\Week1\NonZero_1300A\bin\Debug\netcoreapp3.1\NonZero_1300A.runtimeconfig.json
+F:\Codeforces-Problem-Solving\Week1\NonZero_1300A\bin\Debug\netcoreapp3.1\NonZero_1300A.runtimeconfig.dev.json
+F:\Codeforces-Problem-Solving\Week1\NonZero_1300A\bin\Debug\netcoreapp3.1\NonZero_1300A.dll
+F:\Codeforces-Problem-Solving\Week1\NonZero_1300A\bin\Debug\netcoreapp3.1\NonZero_1300A.pdb
+F:\Codeforces-Problem-Solving\Week1\NonZero_1300A\obj\Debug\netcoreapp3.1\NonZero_1300A.csprojAssemblyReference.cache
+F:\Codeforces-Problem-Solving\Week1\NonZero_1300A\obj\Debug\netcoreapp3.1\NonZero_1300A.AssemblyInfoInputs.cache
+F:\Codeforces-Problem-Solving\Week1\NonZero_1300A\obj\Debug\netcoreapp3.1\NonZero_1300A.AssemblyInfo.cs
+F:\Codeforces-Problem-Solving\Week1\NonZero_1300A\obj\Debug\netcoreapp3.1\NonZero_1300A.csproj.CoreCompileInputs.cache
+F:\Codeforces-Problem-Solving\Week1\NonZero_1300A\obj\Debug\netcoreapp3.1\NonZero_1300A.dll
+F:\Codeforces-Problem-Solving\Week1\NonZero_1300A\obj\Debug\netcoreapp3.1\NonZero_1300A.pdb
+F:\Codeforces-Problem-Solving\Week1\NonZero_1300A\obj\Debug\netcoreapp3.1\NonZero_1300A.genruntimeconfig.cache

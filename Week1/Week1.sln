@@ -7,11 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reward_448A", "Reward_448A\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DistictDigits_1228A", "DistictDigits_1228A\DistictDigits_1228A.csproj", "{FB2C3622-5F28-4DDE-80D3-C0E4DF9F1E71}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chips Moving_1213A", "Chips Moving_1213A\Chips Moving_1213A.csproj", "{101C59EB-E736-4879-BD50-73C4C6A19C65}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chips Moving_1213A", "Chips Moving_1213A\Chips Moving_1213A.csproj", "{101C59EB-E736-4879-BD50-73C4C6A19C65}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hotilier_1200A", "Hotilier_1200A\Hotilier_1200A.csproj", "{42831B0A-B96C-40C5-A880-E81ED83F31C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hotilier_1200A", "Hotilier_1200A\Hotilier_1200A.csproj", "{42831B0A-B96C-40C5-A880-E81ED83F31C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "New Year and the Christmas Ornament_1091A", "New Year and the Christmas Ornament_1091A\New Year and the Christmas Ornament_1091A.csproj", "{8C90507D-9013-45DF-9C03-461BB233A6F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "New Year and the Christmas Ornament_1091A", "New Year and the Christmas Ornament_1091A\New Year and the Christmas Ornament_1091A.csproj", "{8C90507D-9013-45DF-9C03-461BB233A6F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NonZero_1300A", "NonZero_1300A\NonZero_1300A.csproj", "{D8C91D18-45F0-4599-882C-969709C88C18}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{8C90507D-9013-45DF-9C03-461BB233A6F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C90507D-9013-45DF-9C03-461BB233A6F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C90507D-9013-45DF-9C03-461BB233A6F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8C91D18-45F0-4599-882C-969709C88C18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8C91D18-45F0-4599-882C-969709C88C18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8C91D18-45F0-4599-882C-969709C88C18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8C91D18-45F0-4599-882C-969709C88C18}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

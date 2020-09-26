@@ -10,3 +10,4 @@ F:\Codeforces-Problem-Solving\Week1\New Year and the Christmas Ornament_1091A\ob
 F:\Codeforces-Problem-Solving\Week1\New Year and the Christmas Ornament_1091A\obj\Debug\netcoreapp3.1\New Year and the Christmas Ornament_1091A.dll
 F:\Codeforces-Problem-Solving\Week1\New Year and the Christmas Ornament_1091A\obj\Debug\netcoreapp3.1\New Year and the Christmas Ornament_1091A.pdb
 F:\Codeforces-Problem-Solving\Week1\New Year and the Christmas Ornament_1091A\obj\Debug\netcoreapp3.1\New Year and the Christmas Ornament_1091A.genruntimeconfig.cache
+F:\Codeforces-Problem-Solving\Week1\New Year and the Christmas Ornament_1091A\obj\Debug\netcoreapp3.1\New Year and the Christmas Ornament_1091A.csprojAssemblyReference.cache
