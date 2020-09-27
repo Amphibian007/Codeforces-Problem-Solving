@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Yet Another Two Integers Problem_1409A/1.0.0": {
+        "runtime": {
+          "Yet Another Two Integers Problem_1409A.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Yet Another Two Integers Problem_1409A/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

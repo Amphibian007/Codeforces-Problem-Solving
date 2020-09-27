@@ -1,0 +1,13 @@
+F:\Codeforces-Problem-Solving\Week2\Yet Another Two Integers Problem_1409A\bin\Debug\netcoreapp3.1\Yet Another Two Integers Problem_1409A.exe
+F:\Codeforces-Problem-Solving\Week2\Yet Another Two Integers Problem_1409A\bin\Debug\netcoreapp3.1\Yet Another Two Integers Problem_1409A.deps.json
+F:\Codeforces-Problem-Solving\Week2\Yet Another Two Integers Problem_1409A\bin\Debug\netcoreapp3.1\Yet Another Two Integers Problem_1409A.runtimeconfig.json
+F:\Codeforces-Problem-Solving\Week2\Yet Another Two Integers Problem_1409A\bin\Debug\netcoreapp3.1\Yet Another Two Integers Problem_1409A.runtimeconfig.dev.json
+F:\Codeforces-Problem-Solving\Week2\Yet Another Two Integers Problem_1409A\bin\Debug\netcoreapp3.1\Yet Another Two Integers Problem_1409A.dll
+F:\Codeforces-Problem-Solving\Week2\Yet Another Two Integers Problem_1409A\bin\Debug\netcoreapp3.1\Yet Another Two Integers Problem_1409A.pdb
+F:\Codeforces-Problem-Solving\Week2\Yet Another Two Integers Problem_1409A\obj\Debug\netcoreapp3.1\Yet Another Two Integers Problem_1409A.csprojAssemblyReference.cache
+F:\Codeforces-Problem-Solving\Week2\Yet Another Two Integers Problem_1409A\obj\Debug\netcoreapp3.1\Yet Another Two Integers Problem_1409A.AssemblyInfoInputs.cache
+F:\Codeforces-Problem-Solving\Week2\Yet Another Two Integers Problem_1409A\obj\Debug\netcoreapp3.1\Yet Another Two Integers Problem_1409A.AssemblyInfo.cs
+F:\Codeforces-Problem-Solving\Week2\Yet Another Two Integers Problem_1409A\obj\Debug\netcoreapp3.1\Yet Another Two Integers Problem_1409A.csproj.CoreCompileInputs.cache
+F:\Codeforces-Problem-Solving\Week2\Yet Another Two Integers Problem_1409A\obj\Debug\netcoreapp3.1\Yet Another Two Integers Problem_1409A.dll
+F:\Codeforces-Problem-Solving\Week2\Yet Another Two Integers Problem_1409A\obj\Debug\netcoreapp3.1\Yet Another Two Integers Problem_1409A.pdb
+F:\Codeforces-Problem-Solving\Week2\Yet Another Two Integers Problem_1409A\obj\Debug\netcoreapp3.1\Yet Another Two Integers Problem_1409A.genruntimeconfig.cache

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yet Another Two Integers Problem_1409A", "Yet Another Two Integers Problem_1409A\Yet Another Two Integers Problem_1409A.csproj", "{5CEFBD85-8264-445B-81C8-41D451478B3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Omkar and Completion_1372A", "Omkar and Completion_1372A\Omkar and Completion_1372A.csproj", "{25EB6833-D504-4E02-8C73-DD6DAEF06F2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CEFBD85-8264-445B-81C8-41D451478B3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CEFBD85-8264-445B-81C8-41D451478B3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CEFBD85-8264-445B-81C8-41D451478B3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CEFBD85-8264-445B-81C8-41D451478B3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25EB6833-D504-4E02-8C73-DD6DAEF06F2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25EB6833-D504-4E02-8C73-DD6DAEF06F2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25EB6833-D504-4E02-8C73-DD6DAEF06F2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25EB6833-D504-4E02-8C73-DD6DAEF06F2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE1097A9-991F-4186-8E2E-1CDA4983CB10}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Omkar and Completion_1372A/1.0.0": {
+        "runtime": {
+          "Omkar and Completion_1372A.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Omkar and Completion_1372A/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

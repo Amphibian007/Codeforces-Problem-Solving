@@ -1,0 +1,13 @@
+F:\Codeforces-Problem-Solving\Week2\Omkar and Completion_1372A\bin\Debug\netcoreapp3.1\Omkar and Completion_1372A.exe
+F:\Codeforces-Problem-Solving\Week2\Omkar and Completion_1372A\bin\Debug\netcoreapp3.1\Omkar and Completion_1372A.deps.json
+F:\Codeforces-Problem-Solving\Week2\Omkar and Completion_1372A\bin\Debug\netcoreapp3.1\Omkar and Completion_1372A.runtimeconfig.json
+F:\Codeforces-Problem-Solving\Week2\Omkar and Completion_1372A\bin\Debug\netcoreapp3.1\Omkar and Completion_1372A.runtimeconfig.dev.json
+F:\Codeforces-Problem-Solving\Week2\Omkar and Completion_1372A\bin\Debug\netcoreapp3.1\Omkar and Completion_1372A.dll
+F:\Codeforces-Problem-Solving\Week2\Omkar and Completion_1372A\bin\Debug\netcoreapp3.1\Omkar and Completion_1372A.pdb
+F:\Codeforces-Problem-Solving\Week2\Omkar and Completion_1372A\obj\Debug\netcoreapp3.1\Omkar and Completion_1372A.csprojAssemblyReference.cache
+F:\Codeforces-Problem-Solving\Week2\Omkar and Completion_1372A\obj\Debug\netcoreapp3.1\Omkar and Completion_1372A.AssemblyInfoInputs.cache
+F:\Codeforces-Problem-Solving\Week2\Omkar and Completion_1372A\obj\Debug\netcoreapp3.1\Omkar and Completion_1372A.AssemblyInfo.cs
+F:\Codeforces-Problem-Solving\Week2\Omkar and Completion_1372A\obj\Debug\netcoreapp3.1\Omkar and Completion_1372A.csproj.CoreCompileInputs.cache
+F:\Codeforces-Problem-Solving\Week2\Omkar and Completion_1372A\obj\Debug\netcoreapp3.1\Omkar and Completion_1372A.dll
+F:\Codeforces-Problem-Solving\Week2\Omkar and Completion_1372A\obj\Debug\netcoreapp3.1\Omkar and Completion_1372A.pdb
+F:\Codeforces-Problem-Solving\Week2\Omkar and Completion_1372A\obj\Debug\netcoreapp3.1\Omkar and Completion_1372A.genruntimeconfig.cache
