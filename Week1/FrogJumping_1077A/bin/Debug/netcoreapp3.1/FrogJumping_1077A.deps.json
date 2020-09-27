@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FrogJumping_1077A/1.0.0": {
+        "runtime": {
+          "FrogJumping_1077A.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FrogJumping_1077A/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

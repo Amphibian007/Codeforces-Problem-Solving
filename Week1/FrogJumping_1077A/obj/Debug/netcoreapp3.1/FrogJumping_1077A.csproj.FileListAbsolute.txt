@@ -1,0 +1,12 @@
+F:\Codeforces-Problem-Solving\Week1\FrogJumping_1077A\bin\Debug\netcoreapp3.1\FrogJumping_1077A.exe
+F:\Codeforces-Problem-Solving\Week1\FrogJumping_1077A\bin\Debug\netcoreapp3.1\FrogJumping_1077A.deps.json
+F:\Codeforces-Problem-Solving\Week1\FrogJumping_1077A\bin\Debug\netcoreapp3.1\FrogJumping_1077A.runtimeconfig.json
+F:\Codeforces-Problem-Solving\Week1\FrogJumping_1077A\bin\Debug\netcoreapp3.1\FrogJumping_1077A.runtimeconfig.dev.json
+F:\Codeforces-Problem-Solving\Week1\FrogJumping_1077A\bin\Debug\netcoreapp3.1\FrogJumping_1077A.dll
+F:\Codeforces-Problem-Solving\Week1\FrogJumping_1077A\bin\Debug\netcoreapp3.1\FrogJumping_1077A.pdb
+F:\Codeforces-Problem-Solving\Week1\FrogJumping_1077A\obj\Debug\netcoreapp3.1\FrogJumping_1077A.AssemblyInfoInputs.cache
+F:\Codeforces-Problem-Solving\Week1\FrogJumping_1077A\obj\Debug\netcoreapp3.1\FrogJumping_1077A.AssemblyInfo.cs
+F:\Codeforces-Problem-Solving\Week1\FrogJumping_1077A\obj\Debug\netcoreapp3.1\FrogJumping_1077A.csproj.CoreCompileInputs.cache
+F:\Codeforces-Problem-Solving\Week1\FrogJumping_1077A\obj\Debug\netcoreapp3.1\FrogJumping_1077A.dll
+F:\Codeforces-Problem-Solving\Week1\FrogJumping_1077A\obj\Debug\netcoreapp3.1\FrogJumping_1077A.pdb
+F:\Codeforces-Problem-Solving\Week1\FrogJumping_1077A\obj\Debug\netcoreapp3.1\FrogJumping_1077A.genruntimeconfig.cache
