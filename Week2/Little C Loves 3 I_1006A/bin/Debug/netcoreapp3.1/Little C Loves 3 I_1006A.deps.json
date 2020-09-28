@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Little C Loves 3 I_1006A/1.0.0": {
+        "runtime": {
+          "Little C Loves 3 I_1006A.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Little C Loves 3 I_1006A/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

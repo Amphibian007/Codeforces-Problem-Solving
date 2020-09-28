@@ -1,0 +1,13 @@
+F:\Codeforces-Problem-Solving\Week2\Little C Loves 3 I_1006A\bin\Debug\netcoreapp3.1\Little C Loves 3 I_1006A.exe
+F:\Codeforces-Problem-Solving\Week2\Little C Loves 3 I_1006A\bin\Debug\netcoreapp3.1\Little C Loves 3 I_1006A.deps.json
+F:\Codeforces-Problem-Solving\Week2\Little C Loves 3 I_1006A\bin\Debug\netcoreapp3.1\Little C Loves 3 I_1006A.runtimeconfig.json
+F:\Codeforces-Problem-Solving\Week2\Little C Loves 3 I_1006A\bin\Debug\netcoreapp3.1\Little C Loves 3 I_1006A.runtimeconfig.dev.json
+F:\Codeforces-Problem-Solving\Week2\Little C Loves 3 I_1006A\bin\Debug\netcoreapp3.1\Little C Loves 3 I_1006A.dll
+F:\Codeforces-Problem-Solving\Week2\Little C Loves 3 I_1006A\bin\Debug\netcoreapp3.1\Little C Loves 3 I_1006A.pdb
+F:\Codeforces-Problem-Solving\Week2\Little C Loves 3 I_1006A\obj\Debug\netcoreapp3.1\Little C Loves 3 I_1006A.csprojAssemblyReference.cache
+F:\Codeforces-Problem-Solving\Week2\Little C Loves 3 I_1006A\obj\Debug\netcoreapp3.1\Little C Loves 3 I_1006A.AssemblyInfoInputs.cache
+F:\Codeforces-Problem-Solving\Week2\Little C Loves 3 I_1006A\obj\Debug\netcoreapp3.1\Little C Loves 3 I_1006A.AssemblyInfo.cs
+F:\Codeforces-Problem-Solving\Week2\Little C Loves 3 I_1006A\obj\Debug\netcoreapp3.1\Little C Loves 3 I_1006A.csproj.CoreCompileInputs.cache
+F:\Codeforces-Problem-Solving\Week2\Little C Loves 3 I_1006A\obj\Debug\netcoreapp3.1\Little C Loves 3 I_1006A.dll
+F:\Codeforces-Problem-Solving\Week2\Little C Loves 3 I_1006A\obj\Debug\netcoreapp3.1\Little C Loves 3 I_1006A.pdb
+F:\Codeforces-Problem-Solving\Week2\Little C Loves 3 I_1006A\obj\Debug\netcoreapp3.1\Little C Loves 3 I_1006A.genruntimeconfig.cache
