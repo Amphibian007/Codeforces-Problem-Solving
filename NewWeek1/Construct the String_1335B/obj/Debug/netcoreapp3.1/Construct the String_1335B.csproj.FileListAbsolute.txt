@@ -1,0 +1,13 @@
+F:\Codeforces-Problem-Solving\NewWeek1\Construct the String_1335B\bin\Debug\netcoreapp3.1\Construct the String_1335B.exe
+F:\Codeforces-Problem-Solving\NewWeek1\Construct the String_1335B\bin\Debug\netcoreapp3.1\Construct the String_1335B.deps.json
+F:\Codeforces-Problem-Solving\NewWeek1\Construct the String_1335B\bin\Debug\netcoreapp3.1\Construct the String_1335B.runtimeconfig.json
+F:\Codeforces-Problem-Solving\NewWeek1\Construct the String_1335B\bin\Debug\netcoreapp3.1\Construct the String_1335B.runtimeconfig.dev.json
+F:\Codeforces-Problem-Solving\NewWeek1\Construct the String_1335B\bin\Debug\netcoreapp3.1\Construct the String_1335B.dll
+F:\Codeforces-Problem-Solving\NewWeek1\Construct the String_1335B\bin\Debug\netcoreapp3.1\Construct the String_1335B.pdb
+F:\Codeforces-Problem-Solving\NewWeek1\Construct the String_1335B\obj\Debug\netcoreapp3.1\Construct the String_1335B.csprojAssemblyReference.cache
+F:\Codeforces-Problem-Solving\NewWeek1\Construct the String_1335B\obj\Debug\netcoreapp3.1\Construct the String_1335B.AssemblyInfoInputs.cache
+F:\Codeforces-Problem-Solving\NewWeek1\Construct the String_1335B\obj\Debug\netcoreapp3.1\Construct the String_1335B.AssemblyInfo.cs
+F:\Codeforces-Problem-Solving\NewWeek1\Construct the String_1335B\obj\Debug\netcoreapp3.1\Construct the String_1335B.csproj.CoreCompileInputs.cache
+F:\Codeforces-Problem-Solving\NewWeek1\Construct the String_1335B\obj\Debug\netcoreapp3.1\Construct the String_1335B.dll
+F:\Codeforces-Problem-Solving\NewWeek1\Construct the String_1335B\obj\Debug\netcoreapp3.1\Construct the String_1335B.pdb
+F:\Codeforces-Problem-Solving\NewWeek1\Construct the String_1335B\obj\Debug\netcoreapp3.1\Construct the String_1335B.genruntimeconfig.cache
