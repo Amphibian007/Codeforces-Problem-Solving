@@ -1,0 +1,13 @@
+G:\Codeforces-Problem-Solving\New Year Week1\Cards\bin\Debug\netcoreapp3.1\Cards.exe
+G:\Codeforces-Problem-Solving\New Year Week1\Cards\bin\Debug\netcoreapp3.1\Cards.deps.json
+G:\Codeforces-Problem-Solving\New Year Week1\Cards\bin\Debug\netcoreapp3.1\Cards.runtimeconfig.json
+G:\Codeforces-Problem-Solving\New Year Week1\Cards\bin\Debug\netcoreapp3.1\Cards.runtimeconfig.dev.json
+G:\Codeforces-Problem-Solving\New Year Week1\Cards\bin\Debug\netcoreapp3.1\Cards.dll
+G:\Codeforces-Problem-Solving\New Year Week1\Cards\bin\Debug\netcoreapp3.1\Cards.pdb
+G:\Codeforces-Problem-Solving\New Year Week1\Cards\obj\Debug\netcoreapp3.1\Cards.csprojAssemblyReference.cache
+G:\Codeforces-Problem-Solving\New Year Week1\Cards\obj\Debug\netcoreapp3.1\Cards.AssemblyInfoInputs.cache
+G:\Codeforces-Problem-Solving\New Year Week1\Cards\obj\Debug\netcoreapp3.1\Cards.AssemblyInfo.cs
+G:\Codeforces-Problem-Solving\New Year Week1\Cards\obj\Debug\netcoreapp3.1\Cards.csproj.CoreCompileInputs.cache
+G:\Codeforces-Problem-Solving\New Year Week1\Cards\obj\Debug\netcoreapp3.1\Cards.dll
+G:\Codeforces-Problem-Solving\New Year Week1\Cards\obj\Debug\netcoreapp3.1\Cards.pdb
+G:\Codeforces-Problem-Solving\New Year Week1\Cards\obj\Debug\netcoreapp3.1\Cards.genruntimeconfig.cache
