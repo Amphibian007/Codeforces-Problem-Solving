@@ -1,0 +1,12 @@
+G:\Codeforces-Problem-Solving\New Year Week1\VanyaAndCubes\bin\Debug\netcoreapp3.1\VanyaAndCubes.exe
+G:\Codeforces-Problem-Solving\New Year Week1\VanyaAndCubes\bin\Debug\netcoreapp3.1\VanyaAndCubes.deps.json
+G:\Codeforces-Problem-Solving\New Year Week1\VanyaAndCubes\bin\Debug\netcoreapp3.1\VanyaAndCubes.runtimeconfig.json
+G:\Codeforces-Problem-Solving\New Year Week1\VanyaAndCubes\bin\Debug\netcoreapp3.1\VanyaAndCubes.runtimeconfig.dev.json
+G:\Codeforces-Problem-Solving\New Year Week1\VanyaAndCubes\bin\Debug\netcoreapp3.1\VanyaAndCubes.dll
+G:\Codeforces-Problem-Solving\New Year Week1\VanyaAndCubes\bin\Debug\netcoreapp3.1\VanyaAndCubes.pdb
+G:\Codeforces-Problem-Solving\New Year Week1\VanyaAndCubes\obj\Debug\netcoreapp3.1\VanyaAndCubes.AssemblyInfoInputs.cache
+G:\Codeforces-Problem-Solving\New Year Week1\VanyaAndCubes\obj\Debug\netcoreapp3.1\VanyaAndCubes.AssemblyInfo.cs
+G:\Codeforces-Problem-Solving\New Year Week1\VanyaAndCubes\obj\Debug\netcoreapp3.1\VanyaAndCubes.csproj.CoreCompileInputs.cache
+G:\Codeforces-Problem-Solving\New Year Week1\VanyaAndCubes\obj\Debug\netcoreapp3.1\VanyaAndCubes.dll
+G:\Codeforces-Problem-Solving\New Year Week1\VanyaAndCubes\obj\Debug\netcoreapp3.1\VanyaAndCubes.pdb
+G:\Codeforces-Problem-Solving\New Year Week1\VanyaAndCubes\obj\Debug\netcoreapp3.1\VanyaAndCubes.genruntimeconfig.cache

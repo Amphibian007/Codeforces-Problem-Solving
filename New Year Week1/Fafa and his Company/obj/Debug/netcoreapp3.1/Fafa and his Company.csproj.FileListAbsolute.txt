@@ -1,0 +1,13 @@
+G:\Codeforces-Problem-Solving\New Year Week1\Fafa and his Company\bin\Debug\netcoreapp3.1\Fafa and his Company.exe
+G:\Codeforces-Problem-Solving\New Year Week1\Fafa and his Company\bin\Debug\netcoreapp3.1\Fafa and his Company.deps.json
+G:\Codeforces-Problem-Solving\New Year Week1\Fafa and his Company\bin\Debug\netcoreapp3.1\Fafa and his Company.runtimeconfig.json
+G:\Codeforces-Problem-Solving\New Year Week1\Fafa and his Company\bin\Debug\netcoreapp3.1\Fafa and his Company.runtimeconfig.dev.json
+G:\Codeforces-Problem-Solving\New Year Week1\Fafa and his Company\bin\Debug\netcoreapp3.1\Fafa and his Company.dll
+G:\Codeforces-Problem-Solving\New Year Week1\Fafa and his Company\bin\Debug\netcoreapp3.1\Fafa and his Company.pdb
+G:\Codeforces-Problem-Solving\New Year Week1\Fafa and his Company\obj\Debug\netcoreapp3.1\Fafa and his Company.csprojAssemblyReference.cache
+G:\Codeforces-Problem-Solving\New Year Week1\Fafa and his Company\obj\Debug\netcoreapp3.1\Fafa and his Company.AssemblyInfoInputs.cache
+G:\Codeforces-Problem-Solving\New Year Week1\Fafa and his Company\obj\Debug\netcoreapp3.1\Fafa and his Company.AssemblyInfo.cs
+G:\Codeforces-Problem-Solving\New Year Week1\Fafa and his Company\obj\Debug\netcoreapp3.1\Fafa and his Company.csproj.CoreCompileInputs.cache
+G:\Codeforces-Problem-Solving\New Year Week1\Fafa and his Company\obj\Debug\netcoreapp3.1\Fafa and his Company.dll
+G:\Codeforces-Problem-Solving\New Year Week1\Fafa and his Company\obj\Debug\netcoreapp3.1\Fafa and his Company.pdb
+G:\Codeforces-Problem-Solving\New Year Week1\Fafa and his Company\obj\Debug\netcoreapp3.1\Fafa and his Company.genruntimeconfig.cache
